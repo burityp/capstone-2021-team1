@@ -11,7 +11,7 @@ Summer 2021
 - Scott Robertson
 
 ### Files of interest:
-- Raw datasets for input are under /data
+- Input datasets and data dictionary are under /data
 - The final Jupyter Notebook model is under /code
 - The output dataset with PVI scores is under /output
 
